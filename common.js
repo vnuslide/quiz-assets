@@ -3,7 +3,7 @@
 // =============================================================
 
 // ✅ CẤU HÌNH TRUNG TÂM
-const QUIZ_DATA_URL = "https://script.google.com/macros/s/AKfycbw-9IiRqYwhhHazuRRRqHhWLcYX8SNM5sj8wR9kcCY1-nPA5k_M3QxcIHyWRoMwB6ua/exec";
+const QUIZ_DATA_URL = "https://script.google.com/macros/s/AKfycbw-9IiRqYwhhHazuRRRqHhWLcYX8SNM5sj8wR9kcCY1-nPA5k_M3QxcIHyWRoMwB6ua/exec"; 
 const LS_KEY_SAVE = "quiz_progress_v3";
 const LS_KEY_HIST = "quiz_history_v3";
 
